@@ -1,1 +1,1 @@
-creates an empty file called hello
+the sript adds execute permission to the owner of the file hello
