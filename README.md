@@ -1,1 +1,1 @@
-the script adds all permission to the other user and no permissions at all to the owner and the group
+the scripts sets the mode of the file hello the same as olleh's mode
