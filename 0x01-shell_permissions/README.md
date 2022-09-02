@@ -1,1 +1,1 @@
-the script prints the effective username of the current user
+the script prints all the groups the user is pat of
