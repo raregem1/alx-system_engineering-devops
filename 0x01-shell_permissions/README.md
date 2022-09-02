@@ -1,1 +1,1 @@
-adds execute permissions to the owner and group owner and read permission to the other user of the file hello
+the script adds execute permission to the owner, the group owner, and the other users of the file hello
