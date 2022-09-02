@@ -1,1 +1,1 @@
-the su command switches the current user to the user betty
+the script prints the effective username of the current user
