@@ -1,1 +1,1 @@
-the script prints all the groups the user is pat of
+changes the ownership of the file hello to usr betty
