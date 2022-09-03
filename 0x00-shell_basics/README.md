@@ -1,1 +1,1 @@
-the script displays thhe current directory contents in a long format
+the script displays current directory contents including hidden files
