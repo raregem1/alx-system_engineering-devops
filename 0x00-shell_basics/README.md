@@ -1,1 +1,1 @@
-the script creates a directoryy my_first_directory in the /tmp/ directory
+the script moves the file betty from /tmp/ to /tmp/my_first_directory
