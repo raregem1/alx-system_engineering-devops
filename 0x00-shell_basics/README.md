@@ -1,1 +1,1 @@
-the script displays current directory contents in long format with user and group IDs displayed numerically and hidden files
+the script creates a directoryy my_first_directory in the /tmp/ directory
