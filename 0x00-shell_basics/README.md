@@ -1,1 +1,1 @@
-the command lists all the files and directories of the current directory, separated by commas
+the script creates a magic file 
