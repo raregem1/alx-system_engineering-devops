@@ -1,1 +1,1 @@
-the script displays the first two lines of a file
+the script displays the 3rd line of the file iacta
